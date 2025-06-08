@@ -1,0 +1,7 @@
+matplotlib
+opencv-python
+ipython
+pandas
+seaborn
+ultralytics
+python-dotenv
